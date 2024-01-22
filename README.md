@@ -1,5 +1,4 @@
 # LenNet-5  ♠
-# LeNet Image Classification
 
 ## Overview
 
